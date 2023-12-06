@@ -45,6 +45,8 @@ app.get('/weather', (request, response) => {
 });
 
 
+
+
 // app.get('/weather', (request, response) => {
 //     try {
 //         const { lat, lon, searchQuery } = request.query;

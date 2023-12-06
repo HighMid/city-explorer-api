@@ -2,22 +2,31 @@
 
 # Project Name
 
-**Author**: Your Name Goes Here
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Author**: DeAndre Ordonez
+**Version**: 1.0.0
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+ - To display accurate map data and weather data based on user input.  To help users plan their day around the weather, know locations or just for interest of the areas.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+ - Build a backend to gather the information needed from the appropriate APIs and make a frontend for the user to interact with
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+ - This was built on Node using express, dotenv and cors.
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
-
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+ - 5 Dec 1800 - 2240, got the frontend operational with limited user inputs and is capable of displaying information
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+ - All my baby yeeaah woooo, ChatGPT helped refactor my code.
+
+
+Name of feature: Creation of basic backend using static data
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 1700
+
+Finish time: 2240
+
+Actual time needed to complete: 5/30 Hours
